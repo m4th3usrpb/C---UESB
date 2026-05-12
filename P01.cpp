@@ -1,4 +1,4 @@
-/******************************************************************
+
 //Autor: Matheus Regis Pires Brito
 //Data: 12/05/2026
 //Nome do programa: P01.cpp
