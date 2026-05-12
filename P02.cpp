@@ -1,11 +1,10 @@
-/******************************************************************
-Autor.....: Matheus Regis Pires Brito
-Data......: 12/05/2026
-Data da ultima alteracao.:12/05/2026
-Nome do programa: P02.cpp
-Funcao.....: Um programa que recebe um vetor de inteiros positivos e substitui seus elementos de valor
-             ímpar por -1 e os pares por +1. Em seguida, imprime o vetor alterado.
-******************************************************************/
+
+// Autor.....: Matheus Regis Pires Brito
+// Data......: 12/05/2026
+// Data da ultima alteracao.:12/05/2026
+// Nome do programa: P02.cpp
+// Funcao.....: Um programa que recebe um vetor de inteiros positivos e substitui seus elementos de valor
+//            ímpar por -1 e os pares por +1. 
 #include <iostream>
 
 using namespace std;
