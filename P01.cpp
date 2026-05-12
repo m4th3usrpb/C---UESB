@@ -1,12 +1,9 @@
 /******************************************************************
-Autor.....: Matheus Regis Pires Brito
-Data......: 12/05/2026
-Data da ultima alteracao.:12/05/2026
-Nome do programa: P01.cpp
-Funcao.....: Um programa que recebe um vetor de inteiros e
-             calcula a soma de todos os elementos do vetor e
-             imprime a soma calculada.
-******************************************************************/
+//Autor: Matheus Regis Pires Brito
+//Data: 12/05/2026
+//Nome do programa: P01.cpp
+// Funcao: Um programa que recebe um vetor de inteiros e
+//         calcula a soma de todos os elementos 
 #include <iostream>
 #include <iomanip>
 
